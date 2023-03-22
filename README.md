@@ -1,0 +1,1 @@
+La implementación que utiliza SK Learn creo un modelo ligeramente mejor que el algoritmo manual, con un índice Davies–Bouldin de 0.42 contra un índice de 0.43 para el algoritmo manual. Esta ligera diferencia se debe dar porque SK Learn maneja menor algunos casos poco cómunes al momento de crear los clusters.
